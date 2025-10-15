@@ -1,0 +1,4 @@
+node_modules/
+*.local
+# Ignorar arquivos de ambiente com senhas
+.env.*
